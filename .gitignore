@@ -1,0 +1,5 @@
+.env
+*.log
+loki/
+prometheus/data
+grafana/provisioning/datasources/datasources.yml
