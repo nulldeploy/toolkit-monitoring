@@ -162,4 +162,4 @@ docker logs toolkit-alloy -f
 ## Related Repositories
 
 - [toolkit](https://github.com/nulldeploy/toolkit) — main application
-- [toolkit-infra](https://github.com/nulldeploy/toolkit-infra) — Ansible deployment automation
+- [toolkit-infra](https://github.com/nulldeploy/toolkit-infrastructure) — Ansible deployment automation
